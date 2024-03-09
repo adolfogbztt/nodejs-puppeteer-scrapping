@@ -1,0 +1,58 @@
+[
+    {
+        "name": "csm-hit",
+        "value": "tb:s-EM06WVX38MCX8P00G7J1|1707767210082&t:1707767211302&adb:adblk_no",
+        "domain": "www.amazon.com",
+        "path": "/",
+        "expires": 1738007211,
+        "size": 75,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "sameParty": false,
+        "sourceScheme": "Secure"
+    },
+    {
+        "name": "i18n-prefs",
+        "value": "USD",
+        "domain": ".amazon.com",
+        "path": "/",
+        "expires": 1739303209.653142,
+        "size": 13,
+        "httpOnly": false,
+        "secure": false,
+        "session": false,
+        "priority": "Medium",
+        "sameParty": false,
+        "sourceScheme": "Secure"
+    },
+    {
+        "name": "session-id-time",
+        "value": "2082787201l",
+        "domain": ".amazon.com",
+        "path": "/",
+        "expires": 1742327212.233166,
+        "size": 26,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "priority": "Medium",
+        "sameParty": false,
+        "sourceScheme": "Secure"
+    },
+    {
+        "name": "session-id",
+        "value": "136-6988520-4453336",
+        "domain": ".amazon.com",
+        "path": "/",
+        "expires": 1742327212.233088,
+        "size": 29,
+        "httpOnly": false,
+        "secure": true,
+        "session": false,
+        "priority": "Medium",
+        "sameParty": false,
+        "sourceScheme": "Secure"
+    }
+]
